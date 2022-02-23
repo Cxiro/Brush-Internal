@@ -3,4 +3,7 @@ project(brush)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(brush main.cpp)
+file(GLOB sources
+    "main.cpp")
+    
+add_library(brush SHARED ${sources})

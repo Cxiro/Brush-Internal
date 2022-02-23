@@ -497,3 +497,31 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/cmake,clion+all,visualstudio,c++
+build/ZERO_CHECK.vcxproj.filters
+build/ZERO_CHECK.vcxproj
+build/brush.vcxproj.filters
+build/brush.vcxproj
+build/brush.sln
+build/ALL_BUILD.vcxproj.filters
+build/ALL_BUILD.vcxproj
+build/.cmake/api/v1/reply/toolchains-v1-152a9e27c07d8e9cca96.json
+build/.cmake/api/v1/reply/target-ZERO_CHECK-RelWithDebInfo-7055a61351a7f8d957ae.json
+build/.cmake/api/v1/reply/target-ZERO_CHECK-Release-7055a61351a7f8d957ae.json
+build/.cmake/api/v1/reply/target-ZERO_CHECK-MinSizeRel-7055a61351a7f8d957ae.json
+build/.cmake/api/v1/reply/target-ZERO_CHECK-Debug-7055a61351a7f8d957ae.json
+build/.cmake/api/v1/reply/target-brush-RelWithDebInfo-b8b74539ee6fca7e889e.json
+build/.cmake/api/v1/reply/target-brush-Release-80caac525a9597d2d6da.json
+build/.cmake/api/v1/reply/target-brush-MinSizeRel-431eeea683ae35f247d0.json
+build/.cmake/api/v1/reply/target-brush-Debug-59c2807dd345bab68f27.json
+build/.cmake/api/v1/reply/target-ALL_BUILD-RelWithDebInfo-c492717b34eac6a6f3de.json
+build/.cmake/api/v1/reply/target-ALL_BUILD-Release-c492717b34eac6a6f3de.json
+build/.cmake/api/v1/reply/target-ALL_BUILD-MinSizeRel-c492717b34eac6a6f3de.json
+build/.cmake/api/v1/reply/target-ALL_BUILD-Debug-c492717b34eac6a6f3de.json
+build/.cmake/api/v1/reply/index-2022-02-23T00-53-16-0125.json
+build/.cmake/api/v1/reply/directory-.-RelWithDebInfo-d0094a50bb2071803777.json
+build/.cmake/api/v1/reply/directory-.-Release-d0094a50bb2071803777.json
+build/.cmake/api/v1/reply/directory-.-MinSizeRel-d0094a50bb2071803777.json
+build/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json
+build/.cmake/api/v1/reply/codemodel-v2-6c52b611a8cab0aad292.json
+build/.cmake/api/v1/reply/cache-v2-7c571c8e5f2787feb43b.json
+build/.cmake/api/v1/query/client-vscode/query.json
